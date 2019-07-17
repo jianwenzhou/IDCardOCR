@@ -12,16 +12,4 @@
 
 
 
-
-
-
-
-
-遗留问题：
-1.使用线程池             ok
-2.身份证反面识别异常      ok
-3.信息校验
-4.资源下载
-
-
 https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
